@@ -86,12 +86,22 @@ public class BuildCityNoise2 : MonoBehaviour {
                 int result = mapgrid[w, h];
                 Vector3 pos = new Vector3(w * buildingFootprint, 0, h * buildingFootprint);
 
-				if (result < -2)
-					Instantiate (crossroad, pos, Quaternion.Euler (new Vector3 (-90, 0, 0)));
-				else if (result < -1)
-					Instantiate (xstreets, pos, Quaternion.Euler (new Vector3 (-90, 0, 0)));
-				else if (result < 0)
-					Instantiate (zstreets, pos, Quaternion.Euler (new Vector3 (-90, -90, 0)));
+				/*if(result < -2)
+                    Instantiate(crossroad,pos,crossroad.transform.rotation);
+                else if(result < -1)
+                    Instantiate(xstreets,pos,xstreets.transform.rotation);
+                else if(result < 0)
+                    Instantiate(zstreets,pos,zstreets.transform.rotation);
+                */
+
+                if (result < -2)
+                    Instantiate(crossroad, pos, crossroad.transform.rotation);
+                else if (result < -1)
+                    Instantiate(xstreets, pos, xstreets.transform.rotation);
+                else if (result < 0)
+                    Instantiate(zstreets, pos, zstreets.transform.rotation);
+
+
 
                 else if (result < 1)
                     Instantiate(buildings[0], pos, Quaternion.Euler(new Vector3(-90, angles[angleChoisi], 0)));
