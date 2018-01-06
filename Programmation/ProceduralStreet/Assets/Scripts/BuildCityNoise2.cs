@@ -88,14 +88,8 @@ public class BuildCityNoise2 : MonoBehaviour {
                 Vector3 pos = new Vector3(w * buildingFootprint, 0, h * buildingFootprint);
 
 
-
-				//angleChoisi = 
-
 				System.Random rnd = new System.Random();
 				angleChoisi = rnd.Next(0, 4);
-
-				Debug.Log (angleChoisi);
-
 
 
 
@@ -105,8 +99,7 @@ public class BuildCityNoise2 : MonoBehaviour {
                     Instantiate(xstreets, pos, xstreets.transform.rotation);
                 else if (result < 0)
                     Instantiate(zstreets, pos, zstreets.transform.rotation);
-
-
+				
 
                 else if (result < 1)
                     Instantiate(buildings[0], pos, Quaternion.Euler(new Vector3(0, angles[angleChoisi], 0)));
