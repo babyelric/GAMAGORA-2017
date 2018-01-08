@@ -24,13 +24,7 @@ public class BuildCityNoise2 : MonoBehaviour {
         angles[0] = 0;
         angles[1] = 90;
         angles[2] = 180;
-        angles[3] = 270;
-
-
-        
-        //float seed = Random.Range(0, 100);
-
-        
+        angles[3] = 270;        
 
         mapgrid = new int[mapWidth, mapHeight];
 
@@ -44,7 +38,7 @@ public class BuildCityNoise2 : MonoBehaviour {
         }
 
 
-        //build streets
+        //Création des rues et carrefours
         int x = 0;
         for(int n = 0; n < 50; n++)
         {
@@ -57,8 +51,7 @@ public class BuildCityNoise2 : MonoBehaviour {
             if (x >= mapWidth) break;
         }
 
-
-        
+                
 		int z = 0;
 		for(int n = 0; n < 10; n++)
 		{
@@ -70,31 +63,29 @@ public class BuildCityNoise2 : MonoBehaviour {
 					mapgrid [w, z] = -2;
 			}
 
-			z += Random.Range(2, 20);
+			z += Random.Range(2, 5);
 			if (z >= mapHeight) break;
 		}
+        
 
-
-
-
-
-
-        //Génération city
+        //Génération ville
         for (int h = 0; h < mapHeight; h++)
         {
             for(int w = 0; w < mapWidth; w++)
             {
                 int result = mapgrid[w, h];
                 Vector3 pos = new Vector3(w * buildingFootprint, 0, h * buildingFootprint);
+                Vector3 posCrossX = new Vector3(w * buildingFootprint, -0.045f, h * buildingFootprint);
 
 
-				System.Random rnd = new System.Random();
+                System.Random rnd = new System.Random();
 				angleChoisi = rnd.Next(0, 4);
 
+                Debug.Log(angleChoisi);
 
 
                 if (result < -2)
-                    Instantiate(crossroad, pos, crossroad.transform.rotation);
+                    Instantiate(crossroad, posCrossX, crossroad.transform.rotation);
                 else if (result < -1)
                     Instantiate(xstreets, pos, xstreets.transform.rotation);
                 else if (result < 0)
@@ -109,7 +100,7 @@ public class BuildCityNoise2 : MonoBehaviour {
                     Instantiate(buildings[2], pos, Quaternion.Euler(new Vector3(0, angles[angleChoisi], 0)));
                 else if (result < 6)
                     Instantiate(buildings[3], pos, Quaternion.Euler(new Vector3(0, angles[angleChoisi], 0)));
-                else if (result < 7)
+                else if (result < 8)
                     Instantiate(buildings[4], pos, Quaternion.Euler(new Vector3(0, angles[angleChoisi], 0)));
                 else if (result < 10)
                     Instantiate(buildings[5], pos, Quaternion.Euler(new Vector3(0, 0, 0)));
