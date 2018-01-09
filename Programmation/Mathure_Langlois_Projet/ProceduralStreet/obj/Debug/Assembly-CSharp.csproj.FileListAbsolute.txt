@@ -1,0 +1,96 @@
+D:\Documents\UnityProjects\ProceduralStreet\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\nunit.framework.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEditor.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Unity.DataContract.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEditor.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\nunit.framework.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Documents\UnityProjects\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Documents\UnityProjects\ProceduralStreet\obj\Debug\Assembly-CSharp.dll
+D:\Documents\UnityProjects\ProceduralStreet\obj\Debug\Assembly-CSharp.pdb
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\nunit.framework.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEditor.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Unity.DataContract.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\ExCSS.Unity.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Unity.CecilTools.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEditor.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\nunit.framework.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\obj\Debug\Assembly-CSharp.dll
+F:\GAMAGORA 2017\GAMAGORA-2017\Programmation\ProceduralStreet\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Elric\Desktop\ProceduralStreet\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Elric\Desktop\ProceduralStreet\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Elric\Desktop\ProceduralStreet\obj\Debug\Assembly-CSharp.dll
+C:\Users\Elric\Desktop\ProceduralStreet\obj\Debug\Assembly-CSharp.pdb
